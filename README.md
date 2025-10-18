@@ -7,3 +7,4 @@ This project demonstrates Git workflows.
 Contact: demo@example.com
 
 License: MIT
+Tagline: The fastest Git demo
