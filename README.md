@@ -10,3 +10,4 @@ License: MIT
 
 ## Contributing
 PRs welcome. Please use atomic commits.
+Tagline: A totally different tagline
